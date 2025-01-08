@@ -1,7 +1,7 @@
 # Simple script to convert Excel-like tables to Latex tables (tabularx package format)
 For script to convert table, first either copy selected cells in excel (using CTRL-C) and paste to input.txt file or write it yourself. 
 
-Formating of the table could like following:
+Formating of the table could look like following:
 ```
 FIELD1 FIELD2 FIELD3 
 1      2      3
